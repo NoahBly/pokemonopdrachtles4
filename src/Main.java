@@ -45,5 +45,7 @@ public class Main {
     jolteon.thunderBeam();
     jolteon.pokeRun();
 
+        System.out.println("Einde van de battleshow!");
+
     }
 }
